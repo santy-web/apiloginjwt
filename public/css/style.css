@@ -1,0 +1,14 @@
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #000;
+        --text-color: #fff;
+    }
+}
+
+.textosl {
+    color: chartreuse;
+}
+
+img {
+    border-radius: 50px;
+}

@@ -1,0 +1,16 @@
+GET http://localhost:3150/ruta
+
+###
+
+POST http://localhost:3150/app/login
+Content-Type: application/json
+
+{
+    "nombreus": "carlos",
+    "contraus": "123456"
+}
+
+###
+
+POST http://localhost:3150/app/restringido
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7Im5vbWJyZXVzIjoiY2FybG9zIiwiY29udHJhdXMiOiIxMjM0NTYifSwiaWF0IjoxNzE3MTYzMDY5LCJleHAiOjE3MTcxNjMxMTR9.sFpsSPYOYUKqHUxxHPn0folyLbQLa22_3ij7OpBY00o

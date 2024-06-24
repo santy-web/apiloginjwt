@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "nombre": "yuca",
+    "descripcion": "yuca si",
+    "precio": "1",
+    "cantidad": "2",
+    "imagen": "../img/yuca.jpeg"
+  },
+  {
+    "id": "2",
+    "nombre": "papa",
+    "descripcion": "papa",
+    "precio": "1",
+    "cantidad": "1",
+    "imagen": "public\\img\\papa.jpg"
+  }
+]
